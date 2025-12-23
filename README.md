@@ -137,4 +137,7 @@ Real-world UI challenges
 The motivation behind modern frontend frameworks
 
 This understanding prepares developers for building more robust and scalable applications using React.
+## Output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1d294a89-f20f-4261-915f-3ad5c26be627" />
+
 
